@@ -8,7 +8,6 @@ Aquí encontrarás mi solución al reto Challenge ONE Back End - Java, que consi
 El conversor de moneda es muy sencillo de usar. Solo necesitas seleccionar las monedas que quieres convertir y la cantidad, y el programa hará el resto por ti. Además, el conversor de temperatura también es muy fácil de usar. Solo ingresa la temperatura en la unidad que deseas convertir y selecciona la unidad de destino.
 
 ![Divisas](https://user-images.githubusercontent.com/105236722/225996562-4255e7de-6bd7-47aa-a257-5409aad8d49e.gif) 
-
 ![temperatura](https://user-images.githubusercontent.com/105236722/225996856-751e9adb-ada7-499e-acd2-c298076dda93.gif)
 
 
